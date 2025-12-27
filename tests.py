@@ -12,6 +12,3 @@ def test_alive_host():
 
 def test_down_host():
     pass
-
-    
-/// etc...
